@@ -1,2 +1,2 @@
-# Primero fichero
-print("hola")
+# Primer python
+print("hola xd")
